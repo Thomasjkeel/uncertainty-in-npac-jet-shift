@@ -2,7 +2,7 @@
 Notebooks containing code for X figures for ...  
 
 ## Jet statistics
-Jet latitude (and speed) have been precalculated using the [_jsmetrics_](https://github.com/Thomasjkeel/jsmetrics) Python package on JASMIN following a methodology similar to (TODO: add link to jsmetrics runner if I decide to upload that).
+Jet latitude (and speed) have been precalculated using the [_jsmetrics_](https://github.com/Thomasjkeel/jsmetrics) Python package on JASMIN following a methodology using  [_jsmetrics_analysis_runner_](https://github.com/Thomasjkeel/jsmetrics-analysis-runner) .
 
 ## Data
 PacificDecadalOscillation.csv – available from: [KNMI climate Explorer](https://climexp.knmi.nl/selectindex.cgi?id=someone@somewhere)  
