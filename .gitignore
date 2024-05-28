@@ -159,3 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 presentation_stuff/
+reanalysis_jet_latitude_data/NPAC_only_ERA5_daily_outputs/era5_1pnt1res_1940to2022/
