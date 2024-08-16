@@ -1,7 +1,8 @@
 # uncertainty-in-npac-jet-shift
 [![DOI](https://zenodo.org/badge/668713136.svg)](https://zenodo.org/doi/10.5281/zenodo.10877210)
 
-Notebooks containing code for Figures 1-4 and supplementary figures S1-S5 for "Exploring uncertainty of trends in the lower-tropospheric North Pacific Jet position".  
+Notebooks containing code for Figures 1-4 and supplementary figures S1-S5 for "Exploring uncertainty of trends in the lower-tropospheric North Pacific Jet position". DOI: 10.1029/2024GL109500
+
 
 ## Jet statistics
 Jet latitude (and speed) have been precalculated using the [_jsmetrics_](https://github.com/Thomasjkeel/jsmetrics) Python package on JASMIN following a methodology using  [_jsmetrics_analysis_runner_](https://github.com/Thomasjkeel/jsmetrics-analysis-runner) .
